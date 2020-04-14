@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153980496057",
+    "firebase_url": "https://hablar3-cab78.firebaseio.com",
+    "project_id": "hablar3-cab78",
+    "storage_bucket": "hablar3-cab78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153980496057:android:a28f2181ea642364299368",
+        "android_client_info": {
+          "package_name": "com.hablar.hablar_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153980496057-anem69to31li0mh21r0a2j5ba69slb98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRnRavBe7mo5o_eEh2HlJBiQTKIikmdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153980496057-anem69to31li0mh21r0a2j5ba69slb98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
